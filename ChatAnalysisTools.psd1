@@ -2,11 +2,10 @@
     RootModule = 'ChatAnalysisTools.psm1'
     ModuleVersion = '1.0.0'
     GUID = '12345678-1234-1234-1234-123456789012'
-    Author = 'emblem.iO Development Team'
-    CompanyName = 'emblem.iO'
-    Copyright = '(c) 2025 emblem.iO. All rights reserved.'
+    Author = 'romar-j'
+    CompanyName = 'emblem-projects-inc'
+    Copyright = '(c) 2025 emblem-projects-inc. All rights reserved.'
     Description = 'Professional PowerShell module for VS Code chat history analysis and developer workflow correlation'
-    PowerShellVersion = '5.1'
     
     # Functions to export from this module
     FunctionsToExport = @(
